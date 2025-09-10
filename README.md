@@ -1,6 +1,3 @@
-# pointers-assignments
-# Pointers Assignments (Operating Systems Task)
-
 This repository contains 5 C programs that demonstrate the basics of pointers, pointer arithmetic, functions with pointers, double pointers, and character pointers.  
 Each assignment includes source code and a short analysis of how it works.
 
